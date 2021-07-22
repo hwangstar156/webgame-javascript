@@ -16,7 +16,6 @@ const WordRelay = () => {
             setResult('떙');
         }
         setValue('');
-        inputRef.current.focus();
     }
 
 
